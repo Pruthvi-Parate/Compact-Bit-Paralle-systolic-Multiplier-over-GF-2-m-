@@ -1,1 +1,1 @@
-# VLSI_Arch
+# VLSI_Architecture Project
